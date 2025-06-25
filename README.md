@@ -32,8 +32,6 @@ Users should be able to:
 ![Mobile Version Screenshot](/screenshots/Bento%20grid%20Mobile.png)
 
 
-> Add your actual screenshot in place of this placeholder when ready.
-
 ### Links
 
 * **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/)
