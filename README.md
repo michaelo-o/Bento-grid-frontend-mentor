@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-* **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/)
-* **Live Site URL:** [Live Preview](https://your-live-site-url.com)
+* **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/bento-grid-layout-grid-and-flexbox-bJ7Vj8uad2)
+* **Live Site URL:** [Live Preview](https://michaelo-o.github.io/Bento-grid-frontend-mentor/)
 
 ---
 
