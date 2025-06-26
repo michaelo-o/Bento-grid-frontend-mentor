@@ -15,7 +15,11 @@
     font-family: DM Sans, sans-serif;
     font-optical-sizing: auto;
     line-height: 0.9;
+}
+
+body {
     background-color: rgb(245, 245, 245);
+
 }
 
 main {
