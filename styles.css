@@ -15,7 +15,7 @@
     font-family: DM Sans, sans-serif;
     font-optical-sizing: auto;
     line-height: 0.9;
-
+    background-color: rgb(245, 245, 245);
 }
 
 main {
@@ -24,7 +24,6 @@ main {
     align-items: center;
     min-height: 100vh;
     min-height: calc(100vh - 50px);
-    background-color: rgb(245, 245, 245);
 }
 
 .italics {
@@ -127,7 +126,7 @@ p {
 
 .item5,
 .item6 {
-    margin-top: -60px;
+    margin-top: -70px;
 }
 
 .item5 {
